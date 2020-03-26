@@ -13,6 +13,8 @@ import java.io.IOException;
 import com.braintreegateway.BraintreeGateway;
 import com.braintreegateway.Environment;
 
+import springexample.BraintreeGatewayFactory;
+
 import org.junit.Assert;
 import org.junit.AfterClass;
 import org.junit.Before;
